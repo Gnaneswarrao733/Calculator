@@ -1,5 +1,6 @@
-import Calculator from './Calculator';
-import './Calculator.css';
+
+import './Quiz.css';
+import Quiz from './Quiz';
 
 
 
@@ -9,7 +10,7 @@ function App() {
   return (
     <div className="App">
    
-    <Calculator />
+    <Quiz />
 
     </div>
   );
